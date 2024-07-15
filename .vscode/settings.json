@@ -1,0 +1,6 @@
+{
+    "path-intellisense.mappings": {
+        "#src":"${workspaceFolder}/src",
+    },
+    "workbench.editor.tabActionLocation": "right"
+}
